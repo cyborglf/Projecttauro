@@ -1,0 +1,212 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.estilo1{
+	background-color: #6e6e6e;
+	height: 100px;
+}
+
+.textomenu {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+
+.estilo1 {
+	background-image:url(menu/fondomenu.jpg);
+	height: 80px;
+}
+
+
+.ajuste {
+	width: 150px;
+	height: 130px;
+	float: left;
+}
+
+.textoimagenes{
+	font-size: 20px;
+}
+
+img{
+	width: 150px;
+	height: 140px;
+}
+
+
+.cuerpo1{
+background: url('../img/biblioteca1.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.titulo1{
+	text-align:center;
+	color: #FFCA2F;
+
+}
+
+.container{
+	text-align: center;
+	margin: auto;
+	margin-top: 40px;
+
+}
+
+.contenedorform{
+	margin: auto;
+	width: 400px;
+}
+
+.nav-link{
+	color: white;
+}
+
+.vota1{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	margin-top: 40px;
+
+}
+
+ .vota2{
+ 	font-size: 20px;
+	color: black;
+	
+ }
+
+ .container2{
+ 	text-align: center;
+ 	margin-top: 30px;
+
+ }
+
+ .cuerpo3{
+background-image: url("../img/hotel1.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.nav-link2{
+	font-size: 14px;
+	color: #06F5F2;
+	margin: 10px;
+	text-decoration-line: underline;
+
+}
+
+.separador{
+	color: white;
+}
+
+
+.contenedorformulario2{
+	float: right;
+	margin: auto;
+	margin-right: 40px;
+	width: 400px;
+}
+
+.textoformulario{
+	color: white;
+}
+
+.form-control1{
+	margin: auto;
+	width: 150px;
+}
+
+.textoformulario3{	
+	color: white;
+}
+.form-control2{
+	margin: auto;
+	width: 70px;
+}
+.form-control3{
+	width: 40px;
+	margin: auto;
+}
+
+ .cuerpo4{
+
+    background-image: url('../img/fondoavion.jpg');
+    background-size: cover;
+}
+
+.lista{
+   
+margin-right: 5px; 
+ 
+ padding:5px; 
+
+}
+
+
+
+#menu{
+  
+list-style: none; 
+  
+float:right;
+  
+display: -webkit-inline-box;   
+
+}
+
+
+
+.input_text{
+    
+font-size: 20px;
+
+}
+
+
+.boton_submit{
+    
+font-size: 17px;
+background:red;
+color:white;
+font-family: times new roman; 
+}
+
+.boton_reset{
+    
+font-size: 17px;
+background:blue;
+color:white;
+font-family: times new roman;
+}
+
+
+.contenedor-formulario4{
+	float: left;
+	margin: auto;
+	margin-left: 10px;
+	width: 600px;
+}
+
+.lista{
+   margin-right: 5px;
+   margin-top:60px;
+   padding:15px; 
+   color: white
+   
+   
+}
+
+
+.lista1{
+   margin-right: 5px;
+   margin-top:60px;
+   padding:15px; 
+   color: aqua
+
+
+}
